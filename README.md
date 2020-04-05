@@ -1,6 +1,8 @@
 # Udacity Data Scientist Project 1
 *Date updated: Apr 5, 2020*
 
+*Blog published: https://medium.com/@robertbingcheng/when-could-we-end-covid-19-quarantine-8e5abdb49c22*
+
 ### Project Requirements from Udacity
 For this project, you will be creating a blog post and GitHub repository to begin building a data science portfolio of your own.
 
